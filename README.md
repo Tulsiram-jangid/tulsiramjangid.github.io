@@ -1,4 +1,4 @@
-# 🚀 Portfolio – React Native Developer
+# 🚀 Portfolio
 
 Hi, I'm **Tulsiram Jangid** 👋  
 A passionate **React Native Developer** specializing in **cross-platform mobile apps**, **AR integration**, **payment gateways**, and **scalable e-commerce solutions**.  
